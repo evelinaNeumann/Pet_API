@@ -1,0 +1,89 @@
+{
+    "dogs": [
+      {
+        "category": "dog",
+        "type": "Labrador Retriever",
+        "age": 3,
+        "temper": "friendly",
+        "special_needs": false,
+        "image": "https://example.com/dog1.jpg"
+      },
+      {
+        "category": "dog",
+        "type": "German Shepherd",
+        "age": 2,
+        "temper": "loyal",
+        "special_needs": true,
+        "image": "https://example.com/dog2.jpg"
+      },
+      {
+        "category": "dog",
+        "type": "Golden Retriever",
+        "age": 5,
+        "temper": "playful",
+        "special_needs": false,
+        "image": "https://example.com/dog3.jpg"
+      },
+      {
+        "category": "dog",
+        "type": "Poodle",
+        "age": 1,
+        "temper": "smart",
+        "special_needs": false,
+        "image": "https://example.com/dog4.jpg"
+      }
+    ],
+    "cats": [
+      {
+        "category": "cat",
+        "type": "Persian",
+        "age": 4,
+        "temper": "calm",
+        "special_needs": false,
+        "image": "https://example.com/cat1.jpg"
+      },
+      {
+        "category": "cat",
+        "type": "Siamese",
+        "age": 2,
+        "temper": "talkative",
+        "special_needs": true,
+        "image": "https://example.com/cat2.jpg"
+      },
+      {
+        "category": "cat",
+        "type": "Maine Coon",
+        "age": 3,
+        "temper": "playful",
+        "special_needs": false,
+        "image": "https://example.com/cat3.jpg"
+      },
+      {
+        "category": "cat",
+        "type": "Bengal",
+        "age": 1,
+        "temper": "active",
+        "special_needs": false,
+        "image": "https://example.com/cat4.jpg"
+      }
+    ],
+    "small_pets": [
+      {
+        "category": "small_pet",
+        "type": "Hamster",
+        "age": 1,
+        "temper": "curious",
+        "special_needs": false,
+        "image": "https://example.com/hamster1.jpg"
+      },
+      {
+        "category": "small_pet",
+        "type": "Rabbit",
+        "age": 2,
+        "temper": "gentle",
+        "special_needs": false,
+        "image": "https://example.com/rabbit1.jpg"
+      }
+    ]
+  }
+  
